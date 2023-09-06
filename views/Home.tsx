@@ -4,6 +4,7 @@ import { Button, StyleSheet, Text, View } from 'react-native';
 import ScrollList from '../components/ScrollList';
 import AppText from '../components/TextField';
 
+// Adding basic comment to test git
 interface stateProps {
     stateHandler: () => void;
     username: string,
